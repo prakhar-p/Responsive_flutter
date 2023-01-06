@@ -1,6 +1,10 @@
 # responsive
 
 A new Flutter project.
+# Output
+![1](https://user-images.githubusercontent.com/74608125/210943697-f27b9e33-c952-4ab8-91e9-46084ef8882a.JPG)
+![2](https://user-images.githubusercontent.com/74608125/210943763-501eb95c-a154-4b26-8d0b-39800dd46c3a.JPG)
+
 
 ## Getting Started
 
